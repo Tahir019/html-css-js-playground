@@ -1,0 +1,13 @@
+
+
+textarea{
+    width: 80%;
+    height: 100%;
+    background-color: rgb(227, 214, 227);
+    padding: 50px;
+}
+button{
+    padding: 10px;
+    color:aliceblue;
+    background-color: rgb(109, 109, 212);
+}
